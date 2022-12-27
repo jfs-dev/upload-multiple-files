@@ -7,7 +7,7 @@ Upload de vários arquivos de uma vez com C# e .NET 7.0
 ## Sobre o projeto
 Este projeto mostra como fazer upload de vários arquivos de uma vez para o servidor, usando .NET 7.0 com ASP.NET Core 7.0 MVC.
 
-## Referência
+## Referências
 https://learn.microsoft.com/pt-br/aspnet/core/mvc/overview?view=aspnetcore-7.0
 
 https://learn.microsoft.com/pt-br/dotnet/api/microsoft.aspnetcore.http.iformfile?view=aspnetcore-7.0
